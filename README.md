@@ -17,3 +17,7 @@ I believe in continuous growth and strive to embody that principle. I have a p
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisruthi-kovur&hide=TeX&layout=compact)
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/saisruthi-kovur/saisruthi-kovur)
+![pv](https://pageview.vercel.app/?github_user=saisruthi-kovur)
