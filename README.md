@@ -11,8 +11,7 @@ I believe in continuous growth and strive to embody that principle. I have a p
 - 📝 [Resume](https://drive.google.com/file/d/1103S2MZL6A-EfemEEswuYWSFOBD6lk5K/view?usp=drive_link)
 
 
-<h3>Find me @</h3>
-<p> <a href="https://www.linkedin.com/in/sruthikovur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h4>Find me @</h4> <p> <a href="https://www.linkedin.com/in/sruthikovur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
