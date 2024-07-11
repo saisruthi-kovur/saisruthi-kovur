@@ -10,4 +10,10 @@ I believe in continuous growth and strive to embody that principle. I have a p
 - 😄 Pronouns: She/Her/Hers
 - 📝 [Resume](https://drive.google.com/file/d/1103S2MZL6A-EfemEEswuYWSFOBD6lk5K/view?usp=drive_link)
 
+
+<h3>Find me @</h3>
+<p> <a href="https://www.linkedin.com/in/sruthikovur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisruthi-kovur&hide=TeX&layout=compact)
