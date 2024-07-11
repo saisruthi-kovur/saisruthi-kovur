@@ -7,7 +7,6 @@ I believe in continuous growth and strive to embody that principle. I have a p
 - 👩‍💻 I’m currently working as a Software Engineer at [Arizona State University](https://www.asu.edu/)
 - 💬 Brainstorm with me over tech, algorithms, career, and art
 - 📫 How to reach me: kovur.saisruthi@gmail.com
-- 😄 Pronouns: She/Her/Hers
 - 📝 [Resume](https://drive.google.com/file/d/1103S2MZL6A-EfemEEswuYWSFOBD6lk5K/view?usp=drive_link)
 
 
