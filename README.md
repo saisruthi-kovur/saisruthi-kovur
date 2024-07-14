@@ -53,7 +53,7 @@ I believe in continuous growth and strive to embody that principle. I have a p
     </td>
     <td>
       <a href="https://git.io/streak-stats#gh-light-mode-only">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=saisruthi-kovur&theme=graywhite#gh-light-mode-only" width="350" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=saisruthi-kovur&theme=dark#gh-dark-mode-only" width="350" />
       </a>
       <a href="https://git.io/streak-stats#gh-dark-mode-only">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=saisruthi-kovur&theme=dark#gh-dark-mode-only" width="350" />
