@@ -6,6 +6,7 @@
 </div>
 
 
+
 Hello, my name is Sai Sruthi Kovur and I am a highly ambitious, self-motivated, and driven software engineer based in Sunnyvale, CA. I graduated from the [University of California, Riverside](https://www.ucr.edu/) in December 2023 with an MS in Computer Science and have worked in the field ever since. 
 
 I have a wide range of hobbies and passions that keep me busy. From reading and traveling to sketching portraits, I always seek new experiences and love staying engaged and learning new things.
