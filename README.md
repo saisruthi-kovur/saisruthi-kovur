@@ -50,9 +50,6 @@ I believe in continuous growth and strive to embody that principle. I have a p
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisruthi-kovur&hide=TeX&layout=compact" alt="Top Langs" />
-    </td>
-    <td>
       <a href="https://git.io/streak-stats#gh-dark-mode-only">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=saisruthi-kovur&theme=dark#gh-dark-mode-only" width="350" />
       </a>
