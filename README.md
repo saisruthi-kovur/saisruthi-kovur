@@ -44,18 +44,12 @@ I believe in continuous growth and strive to embody that principle. I have a p
 
 
 
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=saisruthi-kovur&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
 
 
-
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats#gh-dark-mode-only">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=saisruthi-kovur&theme=dark#gh-dark-mode-only" width="350" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/saisruthi-kovur/saisruthi-kovur)
