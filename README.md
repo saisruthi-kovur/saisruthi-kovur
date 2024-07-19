@@ -1,11 +1,9 @@
 
 <div align="center">
-   <h1>Hey there, I'm Sruthi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<a href="https://www.linkedin.com/in/sruthikovur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kovur.saisruthi@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <h1>Hey there, I'm <a href="https://saisruthi-kovur.vercel.app/">Sruthi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <a href="https://www.linkedin.com/in/sruthikovur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="mailto:kovur.saisruthi@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-
-
 
 Hello, my name is Sai Sruthi Kovur and I am a highly ambitious, self-motivated, and driven software engineer based in Sunnyvale, CA. I graduated from the [University of California, Riverside](https://www.ucr.edu/) in December 2023 with an MS in Computer Science and have worked in the field ever since. 
 
