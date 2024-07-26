@@ -9,7 +9,6 @@ Hello, my name is Sai Sruthi Kovur and I am a highly ambitious, self-motivated
 I have a wide range of hobbies and passions that keep me busy. From reading and traveling to sketching portraits, I always seek new experiences and love staying engaged and learning new things.
 
 I believe in continuous growth and strive to embody that principle. I have a passion for technology and always desire to push the limits of what is possible. I am excited to see where my career takes me and I am always open to new opportunities.
-
 - 👩‍💻 Software Engineer @ [Arizona State University](https://www.asu.edu/)
 - 💬 Brainstorm with me over tech, algorithms, career, and art
 - 📝 [Resume](https://drive.google.com/file/d/1103S2MZL6A-EfemEEswuYWSFOBD6lk5K/view?usp=drive_link)
