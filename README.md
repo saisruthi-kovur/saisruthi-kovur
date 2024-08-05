@@ -11,7 +11,7 @@ I have a wide range of hobbies and passions that keep me busy. From reading and 
 I believe in continuous growth and strive to embody that principle. I have a passion for technology and always desire to push the limits of what is possible. I am excited to see where my career takes me and I am always open to new opportunities.
 - 👩‍💻 Software Engineer @ [Arizona State University](https://www.asu.edu/)
 - 💬 Brainstorm with me over tech, algorithms, career, and art
-- 📝 [Resume](https://drive.google.com/file/d/1103S2MZL6A-EfemEEswuYWSFOBD6lk5K/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/17ylkZdn-wEM3hWTRjUCvtEMNeiwxf3nE/view?usp=sharing)
 
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
